@@ -10,7 +10,7 @@ normaal pushen:
   
 4: git add .  
 5: git commit -m "mooie message"  
-6: git checkout -b "nieuwe branch naam"  //nieuwe branch
-7: git push origin "branch naam"  
+5a: git checkout -b "nieuwe branch naam" (alleen 1e keer)  
+6: git push origin "branch naam"  
   
 als je het verneukt mag je zelf oplossen xoxoxo
