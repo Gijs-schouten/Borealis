@@ -1,6 +1,6 @@
 ��# Borealis
 
-how pushing git 1e keer:
+how to:
 
 1: git clone https://github.com/Gijs-schouten/Borealis.git  
 2: zet in je NIEUWE borealis/Assets de INHOUD van je oude assets folder  
